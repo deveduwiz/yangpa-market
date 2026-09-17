@@ -56,4 +56,4 @@ jobs:
           app-name: 'yangpa-be-lyr'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39C28335FC3B494D98377629292A2BEB }}
+          publish-profile: ${{ secrets.BE_PROFILE }}
